@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
           title: const Text('Mening birinchi Flutter dasturim'),
         ),
         body: const Center(
-          child: Text('Hello, World!'),
+          child: Text('Assalomu alaykum!'),
         ),
       ),
     );
